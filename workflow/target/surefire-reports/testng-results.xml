@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-19T01:08:32Z" name="Surefire suite" finished-at="2025-03-19T01:08:41Z" duration-ms="8262">
+    <groups>
+    </groups>
+    <test started-at="2025-03-19T01:08:32Z" name="Surefire test" finished-at="2025-03-19T01:08:41Z" duration-ms="8262">
+      <class name="test.com.itexps.WorkFlowTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:32Z" name="setUpClass" finished-at="2025-03-18T20:08:35Z" duration-ms="2580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:35Z" name="setUpMethod" finished-at="2025-03-18T20:08:35Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="testLogin()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:35Z" name="testLogin" finished-at="2025-03-18T20:08:38Z" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:38Z" name="tearDownMethod" finished-at="2025-03-18T20:08:38Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method signature="testLoginout()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:38Z" name="testLoginout" finished-at="2025-03-18T20:08:40Z" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginout -->
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:38Z" name="setUpMethod" finished-at="2025-03-18T20:08:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:40Z" name="tearDownMethod" finished-at="2025-03-18T20:08:40Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:test.com.itexps.WorkFlowTest@166fa74d]" started-at="2025-03-18T20:08:40Z" name="tearDownClass" finished-at="2025-03-18T20:08:41Z" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- test.com.itexps.WorkFlowTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
